@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.root {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+}
+
+.btn,
+.btn-counter {
+  font-size: 24px;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  margin: 20px;
+  border-radius: 10px;
+}
